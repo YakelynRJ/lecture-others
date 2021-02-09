@@ -1,0 +1,3 @@
+[submodule "intro_to_physical_oceanography"]
+	path = intro_to_physical_oceanography
+	url = https://github.com/rabernat/intro_to_physical_oceanography
